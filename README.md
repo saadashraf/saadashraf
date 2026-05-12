@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I am Saad Ashraf, an AI engineer building distributed, production AI software, who also has a graduate degree in applying ML on tiny, human newborn brains. 
 
-You can find me here: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadbinashraf14@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saadashraf111) <a href='https://ai2lab.ca'><img src='https://img.shields.io/badge/Lab-AI2Lab-purple'></a>
+You can find me here: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadbinashraf14@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saadashraf111) ![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white) <a href='https://ai2lab.ca'><img src='https://img.shields.io/badge/Lab-AI2Lab-purple'></a>
 
 
 ## My Current Work 🔭
