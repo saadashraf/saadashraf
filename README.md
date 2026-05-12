@@ -1,20 +1,5 @@
 # Hello! Glad you made it here 😄
 
-<!--
-**saadashraf/saadashraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 I am Saad Ashraf, an AI engineer building distributed, production AI software, who also has a graduate degree in applying ML on tiny, human newborn brains. 
 
 You can find me here: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadbinashraf14@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saadashraf111) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=QeWqb7gAAAAJ&hl=en) <a href='https://ai2lab.ca'><img src='https://img.shields.io/badge/Lab-AI2Lab-purple'></a>
@@ -22,7 +7,7 @@ You can find me here: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=
 
 ## My Current Work 🔭
 
-Looking to join a team/open to collaborate on building AI solutions, specifically understanding the problem space and innovative solutions.
+I'm actively looking for AI/ML engineering roles. I'm particularly interested in teams solving problems in computer vision, LLMs, or medical AI. If you're building something interesting, let's talk!
 
 My current (cool) projects include:
 
