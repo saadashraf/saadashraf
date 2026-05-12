@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 I am Saad Ashraf, an AI engineer building distributed, production AI software, who also has a graduate degree in applying ML on tiny, human newborn brains. 
 
+You can find me here: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saadbinashraf14@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saadashraf111) <a href='https://ai2lab.ca'><img src='https://img.shields.io/badge/Lab-AI2Lab-purple'></a>
+
+
 ## My Current Work 🔭
 
 Looking to join a team/open to collaborate on building AI solutions, specifically understanding the problem space and innovative solutions.
@@ -58,6 +61,5 @@ I developed professional or hobby projects using these at some point:
 
 ## Wanna chat?
 
-I love discussing interesting problems, AI and fun papers. Also, a lot about coffee and hiking in the wild. You can find me here:
+I love discussing interesting problems, AI and fun papers. Also, a lot about coffee and hiking in the wild. Drop a text!
 
-![mailto:saadbinashraf14@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
