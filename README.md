@@ -1,4 +1,4 @@
-# Hello! Glad you made it here 😄
+# Hello! Good to see you here 😄
 
 I am Saad Ashraf, an AI engineer building distributed, production AI software, who also has a graduate degree in applying ML on tiny, human newborn brains. 
 
